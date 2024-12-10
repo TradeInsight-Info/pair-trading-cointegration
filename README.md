@@ -1,5 +1,7 @@
 # Stock Pair Cointegration Calculation
 
+> pip install stock_pair_cointegration
+
 ## Introduction
 
 Pair trading is based on one assumption Mean Reverting, that a over values stock the price will go down, 
