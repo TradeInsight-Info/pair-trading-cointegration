@@ -1,9 +1,12 @@
 [tool.poetry]
-name = "stock_pair_cointegration"
+name = "stock-pair-cointegration"
 version = "0.0.1"
-description = ""
+description = "Get the cointegration result of a pair of stocks."
 authors = ["tim-hub <tim-hub@users.noreply.github.com>"]
 readme = "README.md"
+packages = [
+    { include = "stock_pair_cointegration" }
+]
 
 [tool.poetry.dependencies]
 python = "^3.12"

@@ -1,4 +1,4 @@
-# Stock Pair Cointegration Calculation
+# Stock Pair Cointegration
 
 > pip install stock_pair_cointegration
 
@@ -9,7 +9,7 @@ and a under valued stock the price will go up in the end. Pair trading is to tra
 cointegrated stocks at the same time, that is to take a long position of the under valued stock
 and at the same time take a short position of the over valued stock.
 
-This library is to help you to calculate the cointegration of a pair of stocks.
+This library is to help you to calculate the cointegration result of a pair of stocks.
 
 
 ## How pair trading works
