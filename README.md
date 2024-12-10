@@ -1,6 +1,6 @@
 # Stock Pair Cointegration
 
-> pip install stock_pair_cointegration
+> pip install stocks-pair-cointegration
 
 ## Introduction
 
