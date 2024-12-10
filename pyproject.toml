@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "stock-pair-cointegration"
+name = "stocks-pair-cointegration"
 version = "0.0.1"
 description = "Get the cointegration result of a pair of stocks."
 authors = ["tim-hub <tim-hub@users.noreply.github.com>"]
